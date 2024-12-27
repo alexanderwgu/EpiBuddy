@@ -1,0 +1,5 @@
+streamlit
+langchain_huggingface
+python-dotenv
+pandas
+plotly
